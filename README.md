@@ -45,7 +45,7 @@ This document provides a comprehensive checklist for testing the Order and Payme
 - Handle coupon validation errors:
   Verify that errors during coupon validation are handled correctly.
 
-####  Payment Service Test Cases
+###  Payment Service Test Cases
 
 - Verify that all payment methods are returned if totalPrice <= 300000.
 
