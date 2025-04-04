@@ -64,3 +64,7 @@ This document provides a comprehensive checklist for testing the Order and Payme
 - Verify that payViaLink correctly handles cases when the order is invalid (e.g., missing an id or totalPrice).
 
 - Verify that buildPaymentMethod works correctly if the list of payment methods changes (e.g., adding or removing a payment method).
+
+## Coverage Result
+<img width="1676" alt="Screenshot 2025-04-04 at 13 03 54" src="https://github.com/user-attachments/assets/e1a287a4-575a-438f-9010-ba4ace344dfa" />
+
